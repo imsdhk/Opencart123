@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import pageObjects.HomePage;
 
 public class TC_001_AccountRegistration {
-	
+	// test from git
 	
 	WebDriver driver; 
 	
