@@ -12,6 +12,8 @@ import pageObjects.HomePage;
 public class TC_001_AccountRegistration {
 	// test from git
 	
+	// test from eclipse
+	
 	WebDriver driver; 
 	
 	
@@ -38,6 +40,7 @@ public class TC_001_AccountRegistration {
 	
 	@AfterClass
 	public void tearDown() {
+		driver.quit();
 		
 	}
 
